@@ -37,41 +37,41 @@ local banks = {
 		nameofbank = "Fleeca Bank (Highway)",
 		lastrobbed = 0
 	},
-	--["blainecounty"] = {
-		--position = { ['x'] = -107.06505584717, ['y'] = 6474.8012695313, ['z'] = 31.62670135498 },
-		--reward = 10000 + math.random(100000,200000),
-		--nameofbank = "Blaine County Savings",
-		--lastrobbed = 0
-	}
-	--["fleeca3"] = {
-		--position = { ['x'] = -1212.2568359375, ['y'] = -336.128295898438, ['z'] = 36.7907638549805 },
-		--reward = 30000 + math.random(100000,200000),
-		--nameofbank = "Fleeca Bank (Vinewood Hills)",
-		--lastrobbed = 0
+	["blainecounty"] = {
+		position = { ['x'] = -107.06505584717, ['y'] = 6474.8012695313, ['z'] = 31.62670135498 },
+		reward = 10000 + math.random(100000,200000),
+		nameofbank = "Blaine County Savings",
+		lastrobbed = 0
 	},
-	--["fleeca4"] = {
-		--position = { ['x'] = -354.452575683594, ['y'] = -53.8204879760742, ['z'] = 48.0463104248047 },
-		--reward = 30000 + math.random(100000,200000),
-		--nameofbank = "Fleeca Bank (Burton)",
-		--lastrobbed = 0
+	["fleeca3"] = {
+		position = { ['x'] = -1212.2568359375, ['y'] = -336.128295898438, ['z'] = 36.7907638549805 },
+		reward = 30000 + math.random(100000,200000),
+		nameofbank = "Fleeca Bank (Vinewood Hills)",
+		lastrobbed = 0
 	},
-	--["fleeca5"] = {
-		--position = { ['x'] = 309.967376708984, ['y'] = -283.033660888672, ['z'] = 53.1745223999023 },
-		--reward = 30000 + math.random(100000,200000),
-		--nameofbank = "Fleeca Bank (Alta)",
-		--lastrobbed = 0
+	["fleeca4"] = {
+		position = { ['x'] = -354.452575683594, ['y'] = -53.8204879760742, ['z'] = 48.0463104248047 },
+		reward = 30000 + math.random(100000,200000),
+		nameofbank = "Fleeca Bank (Burton)",
+		lastrobbed = 0
 	},
-	--["fleeca6"] = {
-		--position = { ['x'] = 1176.86865234375, ['y'] = 2711.91357421875, ['z'] = 38.097785949707 },
-		--reward = 30000 + math.random(100000,200000),
-		--nameofbank = "Fleeca Bank (Desert)",
-		--lastrobbed = 0
+	["fleeca5"] = {
+		position = { ['x'] = 309.967376708984, ['y'] = -283.033660888672, ['z'] = 53.1745223999023 },
+		reward = 30000 + math.random(100000,200000),
+		nameofbank = "Fleeca Bank (Alta)",
+		lastrobbed = 0
 	},
-	--["pacific"] = {
-		--position = { ['x'] = 255.001098632813, ['y'] = 225.855895996094, ['z'] = 101.005694274902 },
-		--reward = 60000 + math.random(100000,200000),
-		--nameofbank = "Pacific Standard PDB (Downtown Vinewood)",
-		--lastrobbed = 0
+	["fleeca6"] = {
+		position = { ['x'] = 1176.86865234375, ['y'] = 2711.91357421875, ['z'] = 38.097785949707 },
+		reward = 30000 + math.random(100000,200000),
+		nameofbank = "Fleeca Bank (Desert)",
+		lastrobbed = 0
+	},
+	["pacific"] = {
+		position = { ['x'] = 255.001098632813, ['y'] = 225.855895996094, ['z'] = 101.005694274902 },
+		reward = 60000 + math.random(100000,200000),
+		nameofbank = "Pacific Standard PDB (Downtown Vinewood)",
+		lastrobbed = 0
 	}
 }
 

@@ -93,7 +93,7 @@ cfg.cloakroom_types = {
     _config = { permissions = {"emergency.cloakroom"} },
     ["Male"] = emergency_male,
     ["Female"] = emergency_female,
-	[Fireman" = Fireman_male
+	  ["Fireman"] = Fireman_male
     },
   ["Officer"] = {
     _config = { permissions = {"Officer.cloakroom"} },
