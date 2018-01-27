@@ -135,7 +135,8 @@ cfg.cloakroom_types = {
   ["SWAT"] = {
     _config = { permissions = {"SWAT.cloakroom"} },
     ["Uniform 1"] = fbi_male,
-	["Uniform 2"] = armed_police,
+    ["Uniform 2"] = armed_police,
+    ["Uniform 3"] = sergeant_male
   },
   ["sheriff"] = {
     _config = { permissions = {"sheriff.cloakroom"} },
