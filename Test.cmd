@@ -1,0 +1,1 @@
+run +exec server.cfg
