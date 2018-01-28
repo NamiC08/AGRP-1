@@ -12491,3 +12491,834 @@
 [   4898156] Sending heartbeat to live-internal.fivem.net:30110
 [   4898172] hitch warning: frame time of 2162450 milliseconds
 [   4901140] hitch warning: frame time of 2973 milliseconds
+[  13344046] Initializing Mono
+[  13344312] Initializing Mono completed
+[  13344328] Hello!
+[  13344421] Found new resource banking in D:/Servers\FiveReborn\AGRP/resources//banking
+[  13344421] Found new resource bob74_ipl in D:/Servers\FiveReborn\AGRP/resources//bob74_ipl
+[  13344437] Found new resource BrockALPR in D:/Servers\FiveReborn\AGRP/resources//BrockALPR
+[  13344437] Found new resource CustomScripts in D:/Servers\FiveReborn\AGRP/resources//CustomScripts
+[  13344437] Found new resource els-fivem in D:/Servers\FiveReborn\AGRP/resources//els-fivem
+[  13344437] Found new resource fivem in D:/Servers\FiveReborn\AGRP/resources//fivem
+[  13344437] Found new resource fivem-awesome1501 in D:/Servers\FiveReborn\AGRP/resources//fivem-awesome1501
+[  13344437] Found new resource fivem-loadingscreen-2 in D:/Servers\FiveReborn\AGRP/resources//fivem-loadingscreen-2
+[  13344437] Found new resource fivem-map-hipster in D:/Servers\FiveReborn\AGRP/resources//fivem-map-hipster
+[  13344437] Found new resource fivem-map-skater in D:/Servers\FiveReborn\AGRP/resources//fivem-map-skater
+[  13344453] Found new resource indicators in D:/Servers\FiveReborn\AGRP/resources//indicators
+[  13344453] Found new resource lscustoms in D:/Servers\FiveReborn\AGRP/resources//lscustoms
+[  13344453] Found new resource mysql-async in D:/Servers\FiveReborn\AGRP/resources//mysql-async
+[  13344453] Found new resource noplayerblips in D:/Servers\FiveReborn\AGRP/resources//noplayerblips
+[  13344453] Found new resource online in D:/Servers\FiveReborn\AGRP/resources//online
+[  13344453] Found new resource Ped-Assets in D:/Servers\FiveReborn\AGRP/resources//Ped-Assets
+[  13344453] Found new resource pNotify in D:/Servers\FiveReborn\AGRP/resources//pNotify
+[  13344453] Found new resource PoliceStation in D:/Servers\FiveReborn\AGRP/resources//PoliceStation
+[  13344468] Found new resource pvp in D:/Servers\FiveReborn\AGRP/resources//pvp
+[  13344468] Found new resource railhouse in D:/Servers\FiveReborn\AGRP/resources//railhouse
+[  13344468] Found new resource runcode in D:/Servers\FiveReborn\AGRP/resources//runcode
+[  13344468] Found new resource simeonfix in D:/Servers\FiveReborn\AGRP/resources//simeonfix
+[  13344468] Found new resource Vehicle-Assets in D:/Servers\FiveReborn\AGRP/resources//Vehicle-Assets
+[  13344468] Found new resource Vhealth in D:/Servers\FiveReborn\AGRP/resources//Vhealth
+[  13344468] Found new resource VK_interiors in D:/Servers\FiveReborn\AGRP/resources//VK_interiors
+[  13344468] Found new resource vrp in D:/Servers\FiveReborn\AGRP/resources//vrp
+[  13344484] Found new resource vRP_AdvancedFuel in D:/Servers\FiveReborn\AGRP/resources//vRP_AdvancedFuel
+[  13344484] Found new resource vrp_bankrobbery in D:/Servers\FiveReborn\AGRP/resources//vrp_bankrobbery
+[  13344484] Found new resource vrp_barbershop in D:/Servers\FiveReborn\AGRP/resources//vrp_barbershop
+[  13344484] Found new resource vrp_barrier in D:/Servers\FiveReborn\AGRP/resources//vrp_barrier
+[  13344484] Found new resource vrp_basic_menu in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_menu
+[  13344484] Found new resource vrp_basic_mission in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_mission
+[  13344484] Found new resource vrp_carwash in D:/Servers\FiveReborn\AGRP/resources//vrp_carwash
+[  13344500] Found new resource vrp_drugfarms in D:/Servers\FiveReborn\AGRP/resources//vrp_drugfarms
+[  13344500] Found new resource vrp_job_display in D:/Servers\FiveReborn\AGRP/resources//vrp_job_display
+[  13344500] Found new resource vrp_loadfreeze in D:/Servers\FiveReborn\AGRP/resources//vrp_loadfreeze
+[  13344500] Found new resource vrp_mysql in D:/Servers\FiveReborn\AGRP/resources//vrp_mysql
+[  13344500] Found new resource vrp_playernames in D:/Servers\FiveReborn\AGRP/resources//vrp_playernames
+[  13344500] Found new resource vrp_slotmachine in D:/Servers\FiveReborn\AGRP/resources//vrp_slotmachine
+[  13344500] Found new resource vrp_TruckerJob in D:/Servers\FiveReborn\AGRP/resources//vrp_TruckerJob
+[  13344500] Found new resource weapon-Assets in D:/Servers\FiveReborn\AGRP/resources//weapon-Assets
+[  13344515] Found new resource blips in D:/Servers\FiveReborn\AGRP/resources//[blips]/blips
+[  13344515] Found new resource club_B in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_B
+[  13344515] Found new resource club_R in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_R
+[  13344515] Found new resource racetrack in D:/Servers\FiveReborn\AGRP/resources//[blips]/racetrack
+[  13344515] Found new resource race in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race
+[  13344515] Found new resource race-test in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race-test
+[  13344515] Found new resource channelfeed in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/channelfeed
+[  13344531] Found new resource irc in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/irc
+[  13344531] Found new resource obituary in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary
+[  13344531] Found new resource obituary-deaths in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary-deaths
+[  13344531] Found new resource playernames in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/playernames
+[  13344531] Found new resource mapmanager in D:/Servers\FiveReborn\AGRP/resources//[managers]/mapmanager
+[  13344546] Found new resource Ped in D:/Servers\FiveReborn\AGRP/resources//[Ped]/Ped
+[  13344546] Found new resource baseevents in D:/Servers\FiveReborn\AGRP/resources//[system]/baseevents
+[  13344546] Found new resource chat in D:/Servers\FiveReborn\AGRP/resources//[system]/chat
+[  13344546] Found new resource hardcap in D:/Servers\FiveReborn\AGRP/resources//[system]/hardcap
+[  13344546] Found new resource rconlog in D:/Servers\FiveReborn\AGRP/resources//[system]/rconlog
+[  13344546] Found new resource scoreboard in D:/Servers\FiveReborn\AGRP/resources//[system]/scoreboard
+[  13344562] Found new resource sessionmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/sessionmanager
+[  13344562] Found new resource spawnmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/spawnmanager
+[  13344562] Found new resource betaguns in D:/Servers\FiveReborn\AGRP/resources//[test]/betaguns
+[  13344562] Found new resource gameInit in D:/Servers\FiveReborn\AGRP/resources//[test]/gameInit
+[  13344562] Found new resource keks in D:/Servers\FiveReborn\AGRP/resources//[test]/keks
+[  13344625] Started resource sessionmanager
+[  13344656] Started resource mapmanager
+[  13344703] Started resource chat
+[  13344703] Started resource spawnmanager
+[  13344703] Started resource fivem
+[  13344703] Started gametype Freeroam
+[  13344718] Started resource hardcap
+[  13344718] Started resource rconlog
+[  13344750] Started resource scoreboard
+[  13344750] Started resource playernames
+[  13345031] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1753494408
+[  13345062] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[  13345062] 
+[  13345062] 
+[  13345062] Server stack trace: 
+[  13345062]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13345062]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  13345062]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  13345062]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[  13345062]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  13345062]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[  13345062] 
+[  13345062] Exception rethrown at [0]: 
+[  13345062]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  13345062]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[  13345078] Instantiated instance of script vRP.MySQL.
+[  13345078] Started resource vrp_mysql
+[  13345203] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1753494408
+[  13345328] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1753494408
+[  13345515] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1753494408
+[  13345562] [vRP] launch version 1498403827
+[  13345578] [vRP] init base tables
+[  13345703] Started resource vrp
+[  13345718] Started resource vrp_playernames
+[  13345734] Started resource vrp_basic_mission
+[  13345750] Started resource vrp_barbershop
+[  13345750] Started resource vrp_carwash
+[  13345750] Started resource vrp_loadfreeze
+[  13345765] launched
+[  13345765] Started resource vRP_AdvancedFuel
+[  13345781] Started resource vrp_job_display
+[  13345781] Started resource vrp_bankrobbery
+[  13345796] Started resource vrp_basic_menu
+[  13345812] Started resource vrp_barrier
+[  13345812] Started resource vrp_TruckerJob
+[  13345828] Started resource vrp_slotmachine
+[  13345828] Started resource vrp_drugfarms
+[  13345859] Started resource railhouse
+[  13346031] Started resource online
+[  13346031] Started resource bob74_ipl
+[  13346031] Started resource pvp
+[  13348687] Started resource Ped
+[  13348734] Started resource banking
+[  13348875] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_829892679
+[  13348890] Instantiated instance of script MySQLAsync.MySQLAsync.
+[  13348890] Started resource mysql-async
+[  13348906] Started resource noplayerblips
+[  13348921] Started resource VK_interiors
+[  13348921] Started resource indicators
+[  13348953] Started resource simeonfix
+[  13348968] Started resource pNotify
+[  13348984] Started resource lscustoms
+[  13349000] Started resource CustomScripts
+[  13349000] Started resource Vhealth
+[  13349437] Started resource fivem-loadingscreen-2
+[  13349437] Started resource blips
+[  13349453] Started resource els-fivem
+[  13349468] Done with vehicle: FBI
+[  13349468] Done with vehicle: FBI2
+[  13349484] Done with vehicle: policet
+[  13349500] Done with vehicle: AMBULANCE
+[  13349515] Done with vehicle: FIRETRUK
+[  13349515] Done with vehicle: police
+[  13349531] Done with vehicle: Police2
+[  13349546] Done with vehicle: police3
+[  13349546] Done with vehicle: RIOT
+[  13349562] Done with vehicle: Police4
+[  13349562] Done with pattern: WIGWAG
+[  13349562] Done with pattern: WIGWAG2
+[  13349562] Done with pattern: WIGWAG3
+[  13349562] Done with pattern: LEFTRIGHT
+[  13349562] Done with pattern: LEFTSWEEP
+[  13349562] Done with pattern: RIGHTSWEEP
+[  13351500] Started resource Vehicle-Assets
+[  13352796] Started resource Ped-Assets
+[  13353812] Started resource PoliceStation
+[  13354093] Started resource weapon-Assets
+[  13354109] Started resource BrockALPR
+[  13354125] Authenticating server license key...
+[  13354578] Server license key authentication succeeded. Welcome!
+[  13354687] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[  13354687] Sending heartbeat to live-internal.fivem.net:30110
+[  13354750] Started resource fivem-map-hipster
+[  13354750] Started map fivem-map-hipster
+[  13354796] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_829892679
+[  13354921] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[  13354921]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x000d4] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13354921]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13354921]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13354921]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13354921]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[  13354921]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  13354921]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  13354921]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[  13354921]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13354921]    --- End of inner exception stack trace ---
+[  13354921] 
+[  13354921] 
+[  13354921] Server stack trace: 
+[  13354921]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13354921]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13354921]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13354921]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13354921]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13354921]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[  13354921]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[  13354921]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  13354921]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[  13354921] 
+[  13354921] Exception rethrown at [0]: 
+[  13354921]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  13354921]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  13354921]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[  13354921] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[  13354921] stack traceback:
+[  13354921] 	[C]: in function 'error'
+[  13354921] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[  13354921] 	lib/init.lua:3: in upvalue 'handler'
+[  13354921] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  13354921] stack traceback:
+[  13354921] 	[C]: in function 'error'
+[  13354921] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  13354921] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  13354937] hitch warning: frame time of 290 milliseconds
+[  13358359] Initializing Mono
+[  13358375] Initializing Mono completed
+[  13358375] Hello!
+[  13358406] Found new resource banking in D:/Servers\FiveReborn\AGRP/resources//banking
+[  13358421] Found new resource bob74_ipl in D:/Servers\FiveReborn\AGRP/resources//bob74_ipl
+[  13358421] Found new resource BrockALPR in D:/Servers\FiveReborn\AGRP/resources//BrockALPR
+[  13358421] Found new resource CustomScripts in D:/Servers\FiveReborn\AGRP/resources//CustomScripts
+[  13358421] Found new resource els-fivem in D:/Servers\FiveReborn\AGRP/resources//els-fivem
+[  13358421] Found new resource fivem in D:/Servers\FiveReborn\AGRP/resources//fivem
+[  13358421] Found new resource fivem-awesome1501 in D:/Servers\FiveReborn\AGRP/resources//fivem-awesome1501
+[  13358437] Found new resource fivem-loadingscreen-2 in D:/Servers\FiveReborn\AGRP/resources//fivem-loadingscreen-2
+[  13358437] Found new resource fivem-map-hipster in D:/Servers\FiveReborn\AGRP/resources//fivem-map-hipster
+[  13358437] Found new resource fivem-map-skater in D:/Servers\FiveReborn\AGRP/resources//fivem-map-skater
+[  13358437] Found new resource indicators in D:/Servers\FiveReborn\AGRP/resources//indicators
+[  13358437] Found new resource lscustoms in D:/Servers\FiveReborn\AGRP/resources//lscustoms
+[  13358437] Found new resource mysql-async in D:/Servers\FiveReborn\AGRP/resources//mysql-async
+[  13358453] Found new resource noplayerblips in D:/Servers\FiveReborn\AGRP/resources//noplayerblips
+[  13358453] Found new resource online in D:/Servers\FiveReborn\AGRP/resources//online
+[  13358453] Found new resource Ped-Assets in D:/Servers\FiveReborn\AGRP/resources//Ped-Assets
+[  13358453] Found new resource pNotify in D:/Servers\FiveReborn\AGRP/resources//pNotify
+[  13358453] Found new resource PoliceStation in D:/Servers\FiveReborn\AGRP/resources//PoliceStation
+[  13358453] Found new resource pvp in D:/Servers\FiveReborn\AGRP/resources//pvp
+[  13358453] Found new resource railhouse in D:/Servers\FiveReborn\AGRP/resources//railhouse
+[  13358468] Found new resource runcode in D:/Servers\FiveReborn\AGRP/resources//runcode
+[  13358468] Found new resource simeonfix in D:/Servers\FiveReborn\AGRP/resources//simeonfix
+[  13358468] Found new resource Vehicle-Assets in D:/Servers\FiveReborn\AGRP/resources//Vehicle-Assets
+[  13358468] Found new resource Vhealth in D:/Servers\FiveReborn\AGRP/resources//Vhealth
+[  13358468] Found new resource VK_interiors in D:/Servers\FiveReborn\AGRP/resources//VK_interiors
+[  13358468] Found new resource vrp in D:/Servers\FiveReborn\AGRP/resources//vrp
+[  13358484] Found new resource vRP_AdvancedFuel in D:/Servers\FiveReborn\AGRP/resources//vRP_AdvancedFuel
+[  13358484] Found new resource vrp_bankrobbery in D:/Servers\FiveReborn\AGRP/resources//vrp_bankrobbery
+[  13358484] Found new resource vrp_barbershop in D:/Servers\FiveReborn\AGRP/resources//vrp_barbershop
+[  13358484] Found new resource vrp_barrier in D:/Servers\FiveReborn\AGRP/resources//vrp_barrier
+[  13358484] Found new resource vrp_basic_menu in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_menu
+[  13358484] Found new resource vrp_basic_mission in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_mission
+[  13358500] Found new resource vrp_carwash in D:/Servers\FiveReborn\AGRP/resources//vrp_carwash
+[  13358500] Found new resource vrp_drugfarms in D:/Servers\FiveReborn\AGRP/resources//vrp_drugfarms
+[  13358500] Found new resource vrp_job_display in D:/Servers\FiveReborn\AGRP/resources//vrp_job_display
+[  13358500] Found new resource vrp_loadfreeze in D:/Servers\FiveReborn\AGRP/resources//vrp_loadfreeze
+[  13358500] Found new resource vrp_mysql in D:/Servers\FiveReborn\AGRP/resources//vrp_mysql
+[  13358515] Found new resource vrp_playernames in D:/Servers\FiveReborn\AGRP/resources//vrp_playernames
+[  13358515] Found new resource vrp_slotmachine in D:/Servers\FiveReborn\AGRP/resources//vrp_slotmachine
+[  13358515] Found new resource vrp_TruckerJob in D:/Servers\FiveReborn\AGRP/resources//vrp_TruckerJob
+[  13358515] Found new resource weapon-Assets in D:/Servers\FiveReborn\AGRP/resources//weapon-Assets
+[  13358515] Found new resource blips in D:/Servers\FiveReborn\AGRP/resources//[blips]/blips
+[  13358515] Found new resource club_B in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_B
+[  13358531] Found new resource club_R in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_R
+[  13358531] Found new resource racetrack in D:/Servers\FiveReborn\AGRP/resources//[blips]/racetrack
+[  13358531] Found new resource race in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race
+[  13358531] Found new resource race-test in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race-test
+[  13358531] Found new resource channelfeed in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/channelfeed
+[  13358531] Found new resource irc in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/irc
+[  13358546] Found new resource obituary in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary
+[  13358546] Found new resource obituary-deaths in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary-deaths
+[  13358546] Found new resource playernames in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/playernames
+[  13358546] Found new resource mapmanager in D:/Servers\FiveReborn\AGRP/resources//[managers]/mapmanager
+[  13358546] Found new resource Ped in D:/Servers\FiveReborn\AGRP/resources//[Ped]/Ped
+[  13358562] Found new resource baseevents in D:/Servers\FiveReborn\AGRP/resources//[system]/baseevents
+[  13358562] Found new resource chat in D:/Servers\FiveReborn\AGRP/resources//[system]/chat
+[  13358562] Found new resource hardcap in D:/Servers\FiveReborn\AGRP/resources//[system]/hardcap
+[  13358562] Found new resource rconlog in D:/Servers\FiveReborn\AGRP/resources//[system]/rconlog
+[  13358562] Found new resource scoreboard in D:/Servers\FiveReborn\AGRP/resources//[system]/scoreboard
+[  13358562] Found new resource sessionmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/sessionmanager
+[  13358578] Found new resource spawnmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/spawnmanager
+[  13358578] Found new resource betaguns in D:/Servers\FiveReborn\AGRP/resources//[test]/betaguns
+[  13358578] Found new resource gameInit in D:/Servers\FiveReborn\AGRP/resources//[test]/gameInit
+[  13358578] Found new resource keks in D:/Servers\FiveReborn\AGRP/resources//[test]/keks
+[  13358609] Started resource sessionmanager
+[  13358609] Started resource mapmanager
+[  13358625] Started resource chat
+[  13358625] Started resource spawnmanager
+[  13358625] Started resource fivem
+[  13358625] Started gametype Freeroam
+[  13358625] Started resource hardcap
+[  13358640] Started resource rconlog
+[  13358640] Started resource scoreboard
+[  13358640] Started resource playernames
+[  13358890] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2132381952
+[  13358921] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[  13358921] 
+[  13358921] 
+[  13358921] Server stack trace: 
+[  13358921]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13358921]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  13358921]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  13358921]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[  13358921]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  13358921]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[  13358921] 
+[  13358921] Exception rethrown at [0]: 
+[  13358921]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  13358921]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[  13358921] Instantiated instance of script vRP.MySQL.
+[  13358937] Started resource vrp_mysql
+[  13359000] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_2132381952
+[  13359078] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2132381952
+[  13359156] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_2132381952
+[  13359171] [vRP] launch version 1498403827
+[  13359171] [vRP] init base tables
+[  13359250] Started resource vrp
+[  13359250] Started resource vrp_playernames
+[  13359265] Started resource vrp_basic_mission
+[  13359281] Started resource vrp_barbershop
+[  13359281] Started resource vrp_carwash
+[  13359296] Started resource vrp_loadfreeze
+[  13359296] launched
+[  13359296] Started resource vRP_AdvancedFuel
+[  13359312] Started resource vrp_job_display
+[  13359312] Started resource vrp_bankrobbery
+[  13359328] Started resource vrp_basic_menu
+[  13359328] Started resource vrp_barrier
+[  13359343] Started resource vrp_TruckerJob
+[  13359343] Started resource vrp_slotmachine
+[  13359343] Started resource vrp_drugfarms
+[  13359359] Started resource railhouse
+[  13359359] Started resource online
+[  13359359] Started resource bob74_ipl
+[  13359359] Started resource pvp
+[  13359390] Started resource Ped
+[  13359390] Started resource banking
+[  13359515] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_281011486
+[  13359531] Instantiated instance of script MySQLAsync.MySQLAsync.
+[  13359531] Started resource mysql-async
+[  13359562] Started resource noplayerblips
+[  13359562] Started resource VK_interiors
+[  13359562] Started resource indicators
+[  13359578] Started resource simeonfix
+[  13359578] Started resource pNotify
+[  13359578] Started resource lscustoms
+[  13359593] Started resource CustomScripts
+[  13359593] Started resource Vhealth
+[  13359703] Started resource fivem-loadingscreen-2
+[  13359703] Started resource blips
+[  13359718] Started resource els-fivem
+[  13359718] Done with vehicle: FBI
+[  13359718] Done with vehicle: FBI2
+[  13359718] Done with vehicle: policet
+[  13359718] Done with vehicle: AMBULANCE
+[  13359718] Done with vehicle: FIRETRUK
+[  13359718] Done with vehicle: police
+[  13359734] Done with vehicle: Police2
+[  13359734] Done with vehicle: police3
+[  13359734] Done with vehicle: RIOT
+[  13359734] Done with vehicle: Police4
+[  13359734] Done with pattern: WIGWAG
+[  13359734] Done with pattern: WIGWAG2
+[  13359734] Done with pattern: WIGWAG3
+[  13359734] Done with pattern: LEFTRIGHT
+[  13359734] Done with pattern: LEFTSWEEP
+[  13359734] Done with pattern: RIGHTSWEEP
+[  13359750] Started resource Vehicle-Assets
+[  13359765] Started resource Ped-Assets
+[  13359781] Started resource PoliceStation
+[  13359781] Started resource weapon-Assets
+[  13359781] Started resource BrockALPR
+[  13359781] Authenticating server license key...
+[  13360015] Server license key authentication succeeded. Welcome!
+[  13360078] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[  13360078] Sending heartbeat to live-internal.fivem.net:30110
+[  13360109] Started resource fivem-map-skater
+[  13360109] Started map fivem-map-skater
+[  13360187] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_281011486
+[  13360578] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[  13360578]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x002a0] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13360578]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13360578]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13360578]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  13360578]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[  13360578]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  13360578]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  13360578]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[  13360578]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13360578]    --- End of inner exception stack trace ---
+[  13360578] 
+[  13360578] 
+[  13360578] Server stack trace: 
+[  13360578]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13360578]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13360578]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13360578]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13360578]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  13360578]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[  13360578]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[  13360578]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  13360578]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[  13360578] 
+[  13360578] Exception rethrown at [0]: 
+[  13360578]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  13360578]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  13360578]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[  13360593] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[  13360593] stack traceback:
+[  13360593] 	[C]: in function 'error'
+[  13360593] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[  13360593] 	lib/init.lua:3: in upvalue 'handler'
+[  13360593] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  13360593] stack traceback:
+[  13360593] 	[C]: in function 'error'
+[  13360593] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  13360593] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  13360609] hitch warning: frame time of 525 milliseconds
+[  13464796] Connecting: TheeArcticWolf
+[  13465062] [vRP] TheeArcticWolf (127.0.0.1) joined (user_id = 1)
+[  13465671] Sending heartbeat to live-internal.fivem.net:30110
+[  13483828] Sending player (1) ELS data
+[  13483875] Syncing weather for: TheeArcticWolf
+[  13645671] Sending heartbeat to live-internal.fivem.net:30110
+[  13825703] Sending heartbeat to live-internal.fivem.net:30110
+[  14005718] Sending heartbeat to live-internal.fivem.net:30110
+[  14185734] Sending heartbeat to live-internal.fivem.net:30110
+[  14494484] Initializing Mono
+[  14494500] Initializing Mono completed
+[  14494500] Hello!
+[  14494546] Found new resource banking in D:/Servers\FiveReborn\AGRP/resources//banking
+[  14494546] Found new resource bob74_ipl in D:/Servers\FiveReborn\AGRP/resources//bob74_ipl
+[  14494546] Found new resource BrockALPR in D:/Servers\FiveReborn\AGRP/resources//BrockALPR
+[  14494546] Found new resource CustomScripts in D:/Servers\FiveReborn\AGRP/resources//CustomScripts
+[  14494562] Found new resource els-fivem in D:/Servers\FiveReborn\AGRP/resources//els-fivem
+[  14494562] Found new resource fivem in D:/Servers\FiveReborn\AGRP/resources//fivem
+[  14494562] Found new resource fivem-awesome1501 in D:/Servers\FiveReborn\AGRP/resources//fivem-awesome1501
+[  14494562] Found new resource fivem-loadingscreen-2 in D:/Servers\FiveReborn\AGRP/resources//fivem-loadingscreen-2
+[  14494578] Found new resource fivem-map-hipster in D:/Servers\FiveReborn\AGRP/resources//fivem-map-hipster
+[  14494578] Found new resource fivem-map-skater in D:/Servers\FiveReborn\AGRP/resources//fivem-map-skater
+[  14494578] Found new resource indicators in D:/Servers\FiveReborn\AGRP/resources//indicators
+[  14494578] Found new resource lscustoms in D:/Servers\FiveReborn\AGRP/resources//lscustoms
+[  14494593] Found new resource mysql-async in D:/Servers\FiveReborn\AGRP/resources//mysql-async
+[  14494593] Found new resource noplayerblips in D:/Servers\FiveReborn\AGRP/resources//noplayerblips
+[  14494593] Found new resource online in D:/Servers\FiveReborn\AGRP/resources//online
+[  14494593] Found new resource Ped-Assets in D:/Servers\FiveReborn\AGRP/resources//Ped-Assets
+[  14494593] Found new resource pNotify in D:/Servers\FiveReborn\AGRP/resources//pNotify
+[  14494609] Found new resource PoliceStation in D:/Servers\FiveReborn\AGRP/resources//PoliceStation
+[  14494609] Found new resource pvp in D:/Servers\FiveReborn\AGRP/resources//pvp
+[  14494609] Found new resource railhouse in D:/Servers\FiveReborn\AGRP/resources//railhouse
+[  14494609] Found new resource runcode in D:/Servers\FiveReborn\AGRP/resources//runcode
+[  14494609] Found new resource simeonfix in D:/Servers\FiveReborn\AGRP/resources//simeonfix
+[  14494609] Found new resource Vehicle-Assets in D:/Servers\FiveReborn\AGRP/resources//Vehicle-Assets
+[  14494625] Found new resource Vhealth in D:/Servers\FiveReborn\AGRP/resources//Vhealth
+[  14494625] Found new resource VK_interiors in D:/Servers\FiveReborn\AGRP/resources//VK_interiors
+[  14494625] Found new resource vrp in D:/Servers\FiveReborn\AGRP/resources//vrp
+[  14494625] Found new resource vRP_AdvancedFuel in D:/Servers\FiveReborn\AGRP/resources//vRP_AdvancedFuel
+[  14494640] Found new resource vrp_bankrobbery in D:/Servers\FiveReborn\AGRP/resources//vrp_bankrobbery
+[  14494640] Found new resource vrp_barbershop in D:/Servers\FiveReborn\AGRP/resources//vrp_barbershop
+[  14494640] Found new resource vrp_barrier in D:/Servers\FiveReborn\AGRP/resources//vrp_barrier
+[  14494640] Found new resource vrp_basic_menu in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_menu
+[  14494656] Found new resource vrp_basic_mission in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_mission
+[  14494656] Found new resource vrp_carwash in D:/Servers\FiveReborn\AGRP/resources//vrp_carwash
+[  14494656] Found new resource vrp_drugfarms in D:/Servers\FiveReborn\AGRP/resources//vrp_drugfarms
+[  14494656] Found new resource vrp_job_display in D:/Servers\FiveReborn\AGRP/resources//vrp_job_display
+[  14494656] Found new resource vrp_loadfreeze in D:/Servers\FiveReborn\AGRP/resources//vrp_loadfreeze
+[  14494671] Found new resource vrp_mysql in D:/Servers\FiveReborn\AGRP/resources//vrp_mysql
+[  14494671] Found new resource vrp_playernames in D:/Servers\FiveReborn\AGRP/resources//vrp_playernames
+[  14494671] Found new resource vrp_slotmachine in D:/Servers\FiveReborn\AGRP/resources//vrp_slotmachine
+[  14494671] Found new resource vrp_TruckerJob in D:/Servers\FiveReborn\AGRP/resources//vrp_TruckerJob
+[  14494671] Found new resource weapon-Assets in D:/Servers\FiveReborn\AGRP/resources//weapon-Assets
+[  14494671] Found new resource blips in D:/Servers\FiveReborn\AGRP/resources//[blips]/blips
+[  14494687] Found new resource club_B in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_B
+[  14494687] Found new resource club_R in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_R
+[  14494687] Found new resource racetrack in D:/Servers\FiveReborn\AGRP/resources//[blips]/racetrack
+[  14494687] Found new resource race in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race
+[  14494687] Found new resource race-test in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race-test
+[  14494703] Found new resource channelfeed in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/channelfeed
+[  14494703] Found new resource irc in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/irc
+[  14494703] Found new resource obituary in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary
+[  14494703] Found new resource obituary-deaths in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary-deaths
+[  14494703] Found new resource playernames in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/playernames
+[  14494718] Found new resource mapmanager in D:/Servers\FiveReborn\AGRP/resources//[managers]/mapmanager
+[  14494718] Found new resource Ped in D:/Servers\FiveReborn\AGRP/resources//[Ped]/Ped
+[  14494718] Found new resource baseevents in D:/Servers\FiveReborn\AGRP/resources//[system]/baseevents
+[  14494718] Found new resource chat in D:/Servers\FiveReborn\AGRP/resources//[system]/chat
+[  14494718] Found new resource hardcap in D:/Servers\FiveReborn\AGRP/resources//[system]/hardcap
+[  14494734] Found new resource rconlog in D:/Servers\FiveReborn\AGRP/resources//[system]/rconlog
+[  14494734] Found new resource scoreboard in D:/Servers\FiveReborn\AGRP/resources//[system]/scoreboard
+[  14494734] Found new resource sessionmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/sessionmanager
+[  14494734] Found new resource spawnmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/spawnmanager
+[  14494734] Found new resource betaguns in D:/Servers\FiveReborn\AGRP/resources//[test]/betaguns
+[  14494750] Found new resource gameInit in D:/Servers\FiveReborn\AGRP/resources//[test]/gameInit
+[  14494750] Found new resource keks in D:/Servers\FiveReborn\AGRP/resources//[test]/keks
+[  14494781] Started resource sessionmanager
+[  14494812] Started resource mapmanager
+[  14494937] Started resource chat
+[  14494953] Started resource spawnmanager
+[  14494968] Started resource fivem
+[  14494968] Started gametype Freeroam
+[  14494984] Started resource hardcap
+[  14495000] Started resource rconlog
+[  14495046] Started resource scoreboard
+[  14495062] Started resource playernames
+[  14495421] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_32176082
+[  14495484] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[  14495484] 
+[  14495484] 
+[  14495484] Server stack trace: 
+[  14495484]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14495484]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  14495484]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  14495484]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[  14495484]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  14495484]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[  14495484] 
+[  14495484] Exception rethrown at [0]: 
+[  14495484]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  14495484]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[  14495500] Instantiated instance of script vRP.MySQL.
+[  14495515] Started resource vrp_mysql
+[  14495625] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_32176082
+[  14495687] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_32176082
+[  14495781] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_32176082
+[  14495796] [vRP] launch version 1498403827
+[  14495812] [vRP] init base tables
+[  14495984] Started resource vrp
+[  14496000] Started resource vrp_playernames
+[  14496015] Started resource vrp_basic_mission
+[  14496031] Started resource vrp_barbershop
+[  14496046] Started resource vrp_carwash
+[  14496046] Started resource vrp_loadfreeze
+[  14496046] launched
+[  14496093] Started resource vRP_AdvancedFuel
+[  14496109] Started resource vrp_job_display
+[  14496125] Started resource vrp_bankrobbery
+[  14496156] Started resource vrp_basic_menu
+[  14496171] Started resource vrp_barrier
+[  14496203] Started resource vrp_TruckerJob
+[  14496203] Started resource vrp_slotmachine
+[  14496218] Started resource vrp_drugfarms
+[  14496234] Started resource railhouse
+[  14496375] Started resource online
+[  14496375] Started resource bob74_ipl
+[  14496390] Started resource pvp
+[  14501000] Started resource Ped
+[  14501125] Started resource banking
+[  14501328] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_338730757
+[  14501343] Instantiated instance of script MySQLAsync.MySQLAsync.
+[  14501359] Started resource mysql-async
+[  14501390] Started resource noplayerblips
+[  14501421] Started resource VK_interiors
+[  14501437] Started resource indicators
+[  14501484] Started resource simeonfix
+[  14501546] Started resource pNotify
+[  14501562] Started resource lscustoms
+[  14501593] Started resource CustomScripts
+[  14501593] Started resource Vhealth
+[  14502078] Started resource fivem-loadingscreen-2
+[  14502109] Started resource blips
+[  14502171] Started resource els-fivem
+[  14502187] Done with vehicle: FBI
+[  14502187] Done with vehicle: FBI2
+[  14502203] Done with vehicle: policet
+[  14502218] Done with vehicle: AMBULANCE
+[  14502234] Done with vehicle: FIRETRUK
+[  14502250] Done with vehicle: police
+[  14502265] Done with vehicle: Police2
+[  14502265] Done with vehicle: police3
+[  14502281] Done with vehicle: RIOT
+[  14502296] Done with vehicle: Police4
+[  14502296] Done with pattern: WIGWAG
+[  14502312] Done with pattern: WIGWAG2
+[  14502312] Done with pattern: WIGWAG3
+[  14502312] Done with pattern: LEFTRIGHT
+[  14502312] Done with pattern: LEFTSWEEP
+[  14502312] Done with pattern: RIGHTSWEEP
+[  14504390] Started resource Vehicle-Assets
+[  14507312] Started resource Ped-Assets
+[  14509171] Started resource PoliceStation
+[  14509734] Started resource weapon-Assets
+[  14509765] Started resource BrockALPR
+[  14509765] Authenticating server license key...
+[  14510093] Server license key authentication succeeded. Welcome!
+[  14510187] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[  14510203] Sending heartbeat to live-internal.fivem.net:30110
+[  14510265] Started resource fivem-map-hipster
+[  14510265] Started map fivem-map-hipster
+[  14510312] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_338730757
+[  14510421] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[  14510421]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x002a0] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14510421]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14510421]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14510421]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14510421]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[  14510421]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  14510421]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  14510421]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[  14510421]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14510421]    --- End of inner exception stack trace ---
+[  14510421] 
+[  14510421] 
+[  14510421] Server stack trace: 
+[  14510421]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14510421]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14510421]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14510421]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14510421]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14510421]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[  14510421]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[  14510421]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  14510421]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[  14510421] 
+[  14510421] Exception rethrown at [0]: 
+[  14510421]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  14510421]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  14510421]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[  14510437] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[  14510437] stack traceback:
+[  14510437] 	[C]: in function 'error'
+[  14510437] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[  14510437] 	lib/init.lua:3: in upvalue 'handler'
+[  14510437] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  14510437] stack traceback:
+[  14510437] 	[C]: in function 'error'
+[  14510437] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  14510437] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  14510453] hitch warning: frame time of 301 milliseconds
+[  14517968] Connecting: TheeArcticWolf
+[  14518203] [vRP] TheeArcticWolf (127.0.0.1) joined (user_id = 1)
+[  14525406] Initializing Mono
+[  14525406] Initializing Mono completed
+[  14525421] Hello!
+[  14525453] Found new resource banking in D:/Servers\FiveReborn\AGRP/resources//banking
+[  14525453] Found new resource bob74_ipl in D:/Servers\FiveReborn\AGRP/resources//bob74_ipl
+[  14525453] Found new resource BrockALPR in D:/Servers\FiveReborn\AGRP/resources//BrockALPR
+[  14525468] Found new resource CustomScripts in D:/Servers\FiveReborn\AGRP/resources//CustomScripts
+[  14525468] Found new resource els-fivem in D:/Servers\FiveReborn\AGRP/resources//els-fivem
+[  14525468] Found new resource fivem in D:/Servers\FiveReborn\AGRP/resources//fivem
+[  14525468] Found new resource fivem-awesome1501 in D:/Servers\FiveReborn\AGRP/resources//fivem-awesome1501
+[  14525468] Found new resource fivem-loadingscreen-2 in D:/Servers\FiveReborn\AGRP/resources//fivem-loadingscreen-2
+[  14525468] Found new resource fivem-map-hipster in D:/Servers\FiveReborn\AGRP/resources//fivem-map-hipster
+[  14525468] Found new resource fivem-map-skater in D:/Servers\FiveReborn\AGRP/resources//fivem-map-skater
+[  14525484] Found new resource indicators in D:/Servers\FiveReborn\AGRP/resources//indicators
+[  14525484] Found new resource lscustoms in D:/Servers\FiveReborn\AGRP/resources//lscustoms
+[  14525484] Found new resource mysql-async in D:/Servers\FiveReborn\AGRP/resources//mysql-async
+[  14525484] Found new resource noplayerblips in D:/Servers\FiveReborn\AGRP/resources//noplayerblips
+[  14525484] Found new resource online in D:/Servers\FiveReborn\AGRP/resources//online
+[  14525484] Found new resource Ped-Assets in D:/Servers\FiveReborn\AGRP/resources//Ped-Assets
+[  14525484] Found new resource pNotify in D:/Servers\FiveReborn\AGRP/resources//pNotify
+[  14525500] Found new resource PoliceStation in D:/Servers\FiveReborn\AGRP/resources//PoliceStation
+[  14525500] Found new resource pvp in D:/Servers\FiveReborn\AGRP/resources//pvp
+[  14525500] Found new resource railhouse in D:/Servers\FiveReborn\AGRP/resources//railhouse
+[  14525500] Found new resource runcode in D:/Servers\FiveReborn\AGRP/resources//runcode
+[  14525500] Found new resource simeonfix in D:/Servers\FiveReborn\AGRP/resources//simeonfix
+[  14525500] Found new resource Vehicle-Assets in D:/Servers\FiveReborn\AGRP/resources//Vehicle-Assets
+[  14525500] Found new resource Vhealth in D:/Servers\FiveReborn\AGRP/resources//Vhealth
+[  14525515] Found new resource VK_interiors in D:/Servers\FiveReborn\AGRP/resources//VK_interiors
+[  14525515] Found new resource vrp in D:/Servers\FiveReborn\AGRP/resources//vrp
+[  14525515] Found new resource vRP_AdvancedFuel in D:/Servers\FiveReborn\AGRP/resources//vRP_AdvancedFuel
+[  14525515] Found new resource vrp_bankrobbery in D:/Servers\FiveReborn\AGRP/resources//vrp_bankrobbery
+[  14525515] Found new resource vrp_barbershop in D:/Servers\FiveReborn\AGRP/resources//vrp_barbershop
+[  14525515] Found new resource vrp_barrier in D:/Servers\FiveReborn\AGRP/resources//vrp_barrier
+[  14525515] Found new resource vrp_basic_menu in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_menu
+[  14525531] Found new resource vrp_basic_mission in D:/Servers\FiveReborn\AGRP/resources//vrp_basic_mission
+[  14525531] Found new resource vrp_carwash in D:/Servers\FiveReborn\AGRP/resources//vrp_carwash
+[  14525531] Found new resource vrp_drugfarms in D:/Servers\FiveReborn\AGRP/resources//vrp_drugfarms
+[  14525531] Found new resource vrp_job_display in D:/Servers\FiveReborn\AGRP/resources//vrp_job_display
+[  14525531] Found new resource vrp_loadfreeze in D:/Servers\FiveReborn\AGRP/resources//vrp_loadfreeze
+[  14525531] Found new resource vrp_mysql in D:/Servers\FiveReborn\AGRP/resources//vrp_mysql
+[  14525531] Found new resource vrp_playernames in D:/Servers\FiveReborn\AGRP/resources//vrp_playernames
+[  14525546] Found new resource vrp_slotmachine in D:/Servers\FiveReborn\AGRP/resources//vrp_slotmachine
+[  14525546] Found new resource vrp_TruckerJob in D:/Servers\FiveReborn\AGRP/resources//vrp_TruckerJob
+[  14525546] Found new resource weapon-Assets in D:/Servers\FiveReborn\AGRP/resources//weapon-Assets
+[  14525546] Found new resource blips in D:/Servers\FiveReborn\AGRP/resources//[blips]/blips
+[  14525546] Found new resource club_B in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_B
+[  14525546] Found new resource club_R in D:/Servers\FiveReborn\AGRP/resources//[blips]/club_R
+[  14525546] Found new resource racetrack in D:/Servers\FiveReborn\AGRP/resources//[blips]/racetrack
+[  14525562] Found new resource race in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race
+[  14525562] Found new resource race-test in D:/Servers\FiveReborn\AGRP/resources//[gamemodes]/race-test
+[  14525562] Found new resource channelfeed in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/channelfeed
+[  14525562] Found new resource irc in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/irc
+[  14525562] Found new resource obituary in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary
+[  14525562] Found new resource obituary-deaths in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/obituary-deaths
+[  14525578] Found new resource playernames in D:/Servers\FiveReborn\AGRP/resources//[gameplay]/playernames
+[  14525578] Found new resource mapmanager in D:/Servers\FiveReborn\AGRP/resources//[managers]/mapmanager
+[  14525578] Found new resource Ped in D:/Servers\FiveReborn\AGRP/resources//[Ped]/Ped
+[  14525578] Found new resource baseevents in D:/Servers\FiveReborn\AGRP/resources//[system]/baseevents
+[  14525578] Found new resource chat in D:/Servers\FiveReborn\AGRP/resources//[system]/chat
+[  14525578] Found new resource hardcap in D:/Servers\FiveReborn\AGRP/resources//[system]/hardcap
+[  14525593] Found new resource rconlog in D:/Servers\FiveReborn\AGRP/resources//[system]/rconlog
+[  14525593] Found new resource scoreboard in D:/Servers\FiveReborn\AGRP/resources//[system]/scoreboard
+[  14525593] Found new resource sessionmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/sessionmanager
+[  14525593] Found new resource spawnmanager in D:/Servers\FiveReborn\AGRP/resources//[system]/spawnmanager
+[  14525593] Found new resource betaguns in D:/Servers\FiveReborn\AGRP/resources//[test]/betaguns
+[  14525593] Found new resource gameInit in D:/Servers\FiveReborn\AGRP/resources//[test]/gameInit
+[  14525609] Found new resource keks in D:/Servers\FiveReborn\AGRP/resources//[test]/keks
+[  14525625] Started resource sessionmanager
+[  14525625] Started resource mapmanager
+[  14525640] Started resource chat
+[  14525640] Started resource spawnmanager
+[  14525640] Started resource fivem
+[  14525640] Started gametype Freeroam
+[  14525640] Started resource hardcap
+[  14525656] Started resource rconlog
+[  14525656] Started resource scoreboard
+[  14525656] Started resource playernames
+[  14525890] Loaded mysql.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_312266119
+[  14525921] Exception loading assembly I18N: System.IO.FileNotFoundException: Unable to find the specified file.
+[  14525921] 
+[  14525921] 
+[  14525921] Server stack trace: 
+[  14525921]   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHR (System.Int32 errorCode) [0x0000a] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14525921]   at (wrapper cominterop) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  14525921]   at (wrapper cominterop-invoke) CitizenFX.Core.IScriptHost:OpenHostFile (string)
+[  14525921]   at CitizenFX.Core.MonoScriptRuntime+WrapScriptHost.OpenHostFile (System.String fileName) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:254 
+[  14525921]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  14525921]   at (wrapper xdomain-dispatch) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (object,byte[]&,byte[]&,string)
+[  14525921] 
+[  14525921] Exception rethrown at [0]: 
+[  14525921]   at (wrapper xdomain-invoke) CitizenFX.Core.MonoScriptRuntime+WrapScriptHost:OpenHostFile (string)
+[  14525921]   at CitizenFX.Core.InternalManager.LoadAssembly (System.String name) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:112 
+[  14525937] Instantiated instance of script vRP.MySQL.
+[  14525937] Started resource vrp_mysql
+[  14526015] Loaded MySqlConnector, Version=0.19.5.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_312266119
+[  14526078] Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_312266119
+[  14526156] Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_312266119
+[  14526171] [vRP] launch version 1498403827
+[  14526187] [vRP] init base tables
+[  14526234] Started resource vrp
+[  14526250] Started resource vrp_playernames
+[  14526250] Started resource vrp_basic_mission
+[  14526265] Started resource vrp_barbershop
+[  14526265] Started resource vrp_carwash
+[  14526281] Started resource vrp_loadfreeze
+[  14526281] launched
+[  14526281] Started resource vRP_AdvancedFuel
+[  14526281] Started resource vrp_job_display
+[  14526296] Started resource vrp_bankrobbery
+[  14526312] Started resource vrp_basic_menu
+[  14526312] Started resource vrp_barrier
+[  14526312] Started resource vrp_TruckerJob
+[  14526328] Started resource vrp_slotmachine
+[  14526328] Started resource vrp_drugfarms
+[  14526328] Started resource railhouse
+[  14526343] Started resource online
+[  14526343] Started resource bob74_ipl
+[  14526343] Started resource pvp
+[  14526359] Started resource Ped
+[  14526375] Started resource banking
+[  14526500] Loaded MySQLAsync.net, Version=2.0.2.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_584942131
+[  14526500] Instantiated instance of script MySQLAsync.MySQLAsync.
+[  14526515] Started resource mysql-async
+[  14526531] Started resource noplayerblips
+[  14526531] Started resource VK_interiors
+[  14526546] Started resource indicators
+[  14526546] Started resource simeonfix
+[  14526546] Started resource pNotify
+[  14526562] Started resource lscustoms
+[  14526562] Started resource CustomScripts
+[  14526578] Started resource Vhealth
+[  14526687] Started resource fivem-loadingscreen-2
+[  14526687] Started resource blips
+[  14526687] Started resource els-fivem
+[  14526687] Done with vehicle: FBI
+[  14526687] Done with vehicle: FBI2
+[  14526703] Done with vehicle: policet
+[  14526703] Done with vehicle: AMBULANCE
+[  14526703] Done with vehicle: FIRETRUK
+[  14526703] Done with vehicle: police
+[  14526703] Done with vehicle: Police2
+[  14526703] Done with vehicle: police3
+[  14526703] Done with vehicle: RIOT
+[  14526703] Done with vehicle: Police4
+[  14526703] Done with pattern: WIGWAG
+[  14526703] Done with pattern: WIGWAG2
+[  14526718] Done with pattern: WIGWAG3
+[  14526718] Done with pattern: LEFTRIGHT
+[  14526718] Done with pattern: LEFTSWEEP
+[  14526718] Done with pattern: RIGHTSWEEP
+[  14526734] Started resource Vehicle-Assets
+[  14526750] Started resource Ped-Assets
+[  14526750] Started resource PoliceStation
+[  14526765] Started resource weapon-Assets
+[  14526765] Started resource BrockALPR
+[  14526765] Authenticating server license key...
+[  14527031] Server license key authentication succeeded. Welcome!
+[  14527078] Resolved live-internal.fivem.net:30110 to 163.172.164.221:30110
+[  14527078] Sending heartbeat to live-internal.fivem.net:30110
+[  14527109] Started resource fivem-map-hipster
+[  14527109] Started map fivem-map-hipster
+[  14527156] Loaded MySqlConnector, Version=0.26.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_584942131
+[  14527250] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Format of the initialization string does not conform to specification starting at index 0.
+[  14527250]   at System.Data.Common.DbConnectionOptions.GetKeyValuePair (System.String connectionString, System.Int32 currentPosition, System.Text.StringBuilder buffer, System.Boolean useOdbcRules, System.String& keyname, System.String& keyvalue) [0x002a0] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14527250]   at System.Data.Common.DbConnectionOptions.ParseInternal (System.Collections.Hashtable parsetable, System.String connectionString, System.Boolean buildChain, System.Collections.Hashtable synonyms, System.Boolean firstKey) [0x0001c] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14527250]   at System.Data.Common.DbConnectionOptions..ctor (System.String connectionString, System.Collections.Hashtable synonyms, System.Boolean useOdbcRules) [0x00037] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14527250]   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString (System.String value) [0x00015] in <c660f5a12cac430aa34fafb29a22e588>:0 
+[  14527250]   at MySql.Data.MySqlClient.MySqlConnectionStringBuilder..ctor (System.String connectionString) [0x00006] in <5d2e43c2aa6f4da0bb43a6a12077ad51>:0 
+[  14527250]   at MySQLAsync.MySQLAsync.Configure (System.String connectionStringConfig, System.Boolean debug) [0x00000] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  14527250]   at MySQLAsync.MySQLAsync.<.ctor>b__2_0 () [0x00047] in <6b79789832b34a31961dbb39358e1b3f>:0 
+[  14527250]   at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&)
+[  14527250]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14527250]    --- End of inner exception stack trace ---
+[  14527250] 
+[  14527250] 
+[  14527250] Server stack trace: 
+[  14527250]   at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14527250]   at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14527250]   at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14527250]   at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14527250]   at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <0123fd5b1a1040fe9d70a7e0d4b28acb>:0 
+[  14527250]   at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00062] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\FunctionReference.cs:62 
+[  14527250]   at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\InternalManager.cs:241 
+[  14527250]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  14527250]   at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager:CallRef (object,byte[]&,byte[]&,int,byte[],int&)
+[  14527250] 
+[  14527250] Exception rethrown at [0]: 
+[  14527250]   at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  14527250]   at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager:CallRef (int,byte[],intptr&,int&)
+[  14527250]   at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in C:\gl\builds\4ff63adb\0\cfx\fivem\code\client\clrcore\MonoScriptRuntime.cs:151 
+[  14527265] Error running system event handling function for resource mysql-async: citizen:/scripting/lua/scheduler.lua:41: Failed to execute thread: citizen:/scripting/lua/scheduler.lua:663: An error happened while calling export mysql_configure of resource mysql-async (citizen:/scripting/lua/MessagePack.lua:830: missing bytes), see above for details
+[  14527265] stack traceback:
+[  14527265] 	[C]: in function 'error'
+[  14527265] 	citizen:/scripting/lua/scheduler.lua:663: in method 'mysql_configure'
+[  14527265] 	lib/init.lua:3: in upvalue 'handler'
+[  14527265] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[  14527265] stack traceback:
+[  14527265] 	[C]: in function 'error'
+[  14527265] 	citizen:/scripting/lua/scheduler.lua:41: in field 'CreateThreadNow'
+[  14527265] 	citizen:/scripting/lua/scheduler.lua:174: in function <citizen:/scripting/lua/scheduler.lua:138>
+[  14527265] hitch warning: frame time of 194 milliseconds
+[  14530453] Connecting: TheeArcticWolf
+[  14530687] [vRP] TheeArcticWolf (127.0.0.1) joined (user_id = 1)
+[  14531234] Sending heartbeat to live-internal.fivem.net:30110
+[  14575250] Sending player (1) ELS data
+[  14575296] Syncing weather for: TheeArcticWolf
+[  14711265] Sending heartbeat to live-internal.fivem.net:30110
+[  14891265] Sending heartbeat to live-internal.fivem.net:30110
+[  15071296] Sending heartbeat to live-internal.fivem.net:30110
+[  15251312] Sending heartbeat to live-internal.fivem.net:30110
+[  15431343] Sending heartbeat to live-internal.fivem.net:30110
+[  15611359] Sending heartbeat to live-internal.fivem.net:30110
+[  15791375] Sending heartbeat to live-internal.fivem.net:30110
+[  15971406] Sending heartbeat to live-internal.fivem.net:30110
+[  16151421] Sending heartbeat to live-internal.fivem.net:30110
+[  16331453] Sending heartbeat to live-internal.fivem.net:30110
+[  16511468] Sending heartbeat to live-internal.fivem.net:30110
