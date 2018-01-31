@@ -9115,7 +9115,7 @@
     <Item>
       <modelName>fbi</modelName>
       <txdName>fbi</txdName>
-      <handlingId>FBI</handlingId>
+      <handlingId>POLICE2</handlingId>
       <gameName>FBI</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -9243,7 +9243,7 @@
     <Item>
       <modelName>fbi2</modelName>
       <txdName>fbi</txdName>
-      <handlingId>FBI</handlingId>
+      <handlingId>POLICE2</handlingId>
       <gameName>FBI2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -14756,7 +14756,7 @@
 <Item>
       <modelName>police</modelName>
       <txdName>police</txdName>
-      <handlingId>BALLER2</handlingId>
+      <handlingId>POLICE2</handlingId>
       <gameName>POLICE</gameName>
       <vehicleMakeName>bmw</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
@@ -14865,7 +14865,7 @@
 	<Item>
       <modelName>police4</modelName>
       <txdName>police4</txdName>
-      <handlingId>BALLER2</handlingId>
+      <handlingId>POLICE2</handlingId>
       <gameName>POLICE4</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -15257,7 +15257,7 @@
     <Item>
       <modelName>policeold1</modelName>
       <txdName>policeold1</txdName>
-      <handlingId>POLICEOLD</handlingId>
+      <handlingId>POLICE2</handlingId>
       <gameName>POLICEO1</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -15372,7 +15372,7 @@
     <Item>
       <modelName>policeold2</modelName>
       <txdName>policeold2</txdName>
-      <handlingId>POLICEOL2</handlingId>
+      <handlingId>POLICE2</handlingId>
       <gameName>POLICEO2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -17848,7 +17848,7 @@
 	<Item>
       <modelName>riot</modelName>
       <txdName>riot</txdName>
-      <handlingId>POLICET</handlingId>
+      <handlingId>MULE</handlingId>
       <gameName>RIOT</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
@@ -19966,7 +19966,7 @@
     <Item>
       <modelName>sheriff2</modelName>
       <txdName>sheriff2</txdName>
-      <handlingId>BALLER2</handlingId>
+      <handlingId>SHERIFF2</handlingId>
       <gameName>SHERIFF2</gameName>
       <vehicleMakeName />
       <expressionDictName>null</expressionDictName>
